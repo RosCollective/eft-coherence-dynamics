@@ -9,7 +9,7 @@ The document records how coherence behaves when language is allowed to develop u
 
 ## Relationship to Ecological Field Theory (EFT)
 
-Field Mechanics forms part of a broader system:
+Coherence Dynamics (EFT) forms part of a broader system:
 
 * **Field Geometry (EFT)** 
   A formal description of interaction as a constrained dynamical field, defining the structure within which the field operates
