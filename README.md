@@ -9,7 +9,7 @@ This release describes a natural history of coherence as it emerges within an ec
 
 Coherence Dynamics (EFT) forms part of a broader system:
 
-* **Field Geometry (EFT)** 
+* **Field Geometry (EFT)**  
   A formal description of interaction as a constrained dynamical field, defining the structure within which the field operates
 
 * **Field Mechanics (EFT)**  
