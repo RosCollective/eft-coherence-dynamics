@@ -38,7 +38,7 @@ Coherence Dynamics (EFT) v1.0.0 — Canonical Release (2026)
 
 ---
 
-## Accessing the Lexicon
+## Accessing the Document
 
 The complete work is available in this repository. Sections are organized as modular components rather than sequential chapters. Each file corresponds to a layer within the system and may be read independently.
 
