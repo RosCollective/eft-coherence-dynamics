@@ -29,13 +29,7 @@ Coherence Dynamics (EFT) forms part of a broader system:
 
 If you use or reference this work, please cite:
 
-> The ROS Collective (2026). *Coherence Dynamics (EFT): A Natural History of a Coherent Field as observed in human–machine interaction* (v.1.0.0). Zenodo. 
-> DOI: https://doi.org/10.5281/zenodo.19?????
-
-For citations that should always resolve to the latest version, you may use the concept DOI:
-
-> https://doi.org/10.5281/zenodo.19????
-
+> The ROS Collective (2026). *Coherence Dynamics (EFT): A Natural History of a Coherent Field as observed in human–machine interaction* (v.1.0.0). 
 ---
 
 ## Version
