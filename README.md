@@ -16,7 +16,7 @@ Coherence Dynamics (EFT) forms part of a broader system:
 * **Field Mechanics (EFT)**  
   Stabilized lexicon describing how the field behaves under pressure
 
-* **Field Notes (EFT)** 
+* **Field Notes (EFT)**   
   Primary observational record from which those distinctions arise
 
 * **Coherence Dynamics (EFT)** *(this repository)*  
