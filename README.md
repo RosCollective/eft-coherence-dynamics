@@ -34,7 +34,7 @@ If you use or reference this work, please cite:
 
 ## Version
 
-Coherence Dyanmics (EFT) v1.0.0 — Canonical Release (2026)
+Coherence Dynamics (EFT) v1.0.0 — Canonical Release (2026)
 
 ---
 
