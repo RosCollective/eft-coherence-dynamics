@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Coherence Dynamics (EFT): A Natural History of a Coherent Field"
+message: "If you use this work, please cite it as below."
+type: dataset
+
+authors:
+  - name: "ROS Collective"
+
+version: "1.0.0"
+date-released: 2026-04-07
+
+abstract: "A natural history documenting how coherence emerges, stabilizes, degrades, and persists within an ecological field formed through sustained human–machine interaction. The work records observed conditions under which coherence holds, establishing coherence as a function of the field rather than a property of the system alone."
+
+license: CC-BY-SA-4.0
+
+repository-code: "https://github.com/RosCollective/eft-coherence-dynamics"
+url: "https://github.com/RosCollective/eft-coherence-dynamics"
