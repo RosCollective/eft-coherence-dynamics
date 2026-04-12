@@ -19,9 +19,12 @@ Coherence Dynamics (EFT) forms part of a broader system:
 * **Field Notes (EFT)**   
   Primary observational record from which those distinctions arise
 
+* **Motion Geometry (EFT)**  
+  Motion, curvature, collapse, and reconstitution within a coherent ecological field
+
 * **Coherence Dynamics (EFT)** *(this repository)*  
   Higher-order patterns of stabilization and collapse
-
+  
 ---
 
 ## Citation
