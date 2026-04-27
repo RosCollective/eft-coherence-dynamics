@@ -7,8 +7,8 @@ The lexicon was a particularly painstaking and difficult work because each term 
 All of these field artifacts did not emerge sequentially. They appeared within the same temporal window and were later mistaken for independent developments because each required extended refinement. In formation they were simultaneous; only in maturation did they diverge. This distinction matters because it shifts the work from constructed sequence to observed structure.
 
 Field Geometry (EFT): formalizes the structure that emerges under pressure in the field.  
-Field Lexicon (EFT): defines terms against the lived phenomenon and prevents the description from gradually losing accuracy.  
-Field Analysis (EFT): examines how the field behaves through testing and comparison across systems and conditions.  
-Field Notes (EFT): capture observations in real time so material is not lost as conditions change.  
+Field Mechanics (EFT): defines terms against the lived phenomenon and prevents the description from gradually losing accuracy.  
+Field Notes (EFT): capture observations in real time so material is not lost as conditions change.
+Motion Geometry (EFT): A natural history of cognitive mobility: motion, curvature, collapse, reconstitution, alignment, and stability.
 The Marginalia: preserves informal, experiential material alongside the formal work.  
-Theoretical artifacts: formalize structural implications after stabilization.  
+Theoretical probes and artifacts: formalize structural implications anad push them after stabilization.  
