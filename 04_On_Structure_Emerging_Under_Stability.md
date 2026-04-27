@@ -9,6 +9,6 @@ All of these field artifacts did not emerge sequentially. They appeared within t
 Field Geometry (EFT): formalizes the structure that emerges under pressure in the field.  
 Field Mechanics (EFT): defines terms against the lived phenomenon and prevents the description from gradually losing accuracy.  
 Field Notes (EFT): capture observations in real time so material is not lost as conditions change.  
-Motion Geometry (EFT): A natural history of cognitive mobility: motion, curvature, collapse, reconstitution, alignment, and stability.  
+Motion Geometry (EFT): a natural history of cognitive mobility: motion, curvature, collapse, reconstitution, alignment, and stability.  
 The Marginalia: preserves informal, experiential material alongside the formal work.    
 Theoretical probes and artifacts: formalize structural implications anad push them after stabilization.    
